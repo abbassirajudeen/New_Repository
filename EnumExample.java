@@ -7,7 +7,10 @@ public enum EnumExample {
 	// put comma upto compete entire enum list at last put semicolon
 	saraesh("joe", "25"), anotherperson("cutie", "10"), neelesh("beauty", "19"), nayan("kerala", "13"),
 	divya("tamil", "14"), dude("iwish", "16");
-	
+	sadfsdfsadfsadf
+		asdfasdfsadfsad
+		asdfsdafsdafa
+		asdfdsdafwsf
 	
 
 	private final String desc;
